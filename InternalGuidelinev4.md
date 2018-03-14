@@ -1,6 +1,6 @@
-#Internal Guidelines for OMTD acceptable Components / use case execution
+# Internal Guidelines for OMTD acceptable Components / use case execution
 
-####Objective
+#### Objective
 Objective: This document aims to provide  guidelines and best practices for exposing on OpenMinTed components based on AlvisNLP/ML.
 
 Following points / items need to be taken care before executing an OpenminTeD platform acceptable componenets component / use cae in the OpenMinTeD platform.
